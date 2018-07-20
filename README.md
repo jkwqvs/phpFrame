@@ -1,2 +1,2 @@
 # phpFrame
-Pure PHP hand knocking frame
+Pure PHP hand knocking frame.
